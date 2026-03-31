@@ -1,6 +1,5 @@
-# AutoGen Video Pipeline 🎬🤖
+# AutoGen Video Pipeline 
 
-> **Status:** Closed-source / Commercial Project 🔒  
 > **Type:** Fully Automated AI Content Factory  
 > **Output:** TikTok, YouTube Shorts, Instagram Reels  
 
@@ -80,4 +79,4 @@ Running on a single **NVIDIA RTX 4090**, the pipeline achieves:
 <br>
 
 ---
-*Created by [Aleksey Efremov](https://your-portfolio-link.com) — Generative AI Artist & Pipeline Engineer*
+*Created by [Aleksey Efremov](https://alekseyefremov.com) — Generative AI Artist & Pipeline Engineer*
